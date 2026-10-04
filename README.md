@@ -10,7 +10,6 @@ An interactive web-based trainer and quiz for mastering musical scales, sheet mu
 
 ## Screenshot
 
-<!-- Screenshot Stub: Will be added once deployed -->
 ![ScaleMaster Screenshot](./screenshot.png)
 
 ---
