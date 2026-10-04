@@ -1,0 +1,8 @@
+{
+  "name": "Remix ScaleMaster - Music Theory \u0026 Notation Trainer",
+  "description": "Interactive music theory trainer for notated scales, major and harmonic/melodic minors, dynamic rhythms, and an interactive Circle of Fifths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
